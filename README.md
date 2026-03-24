@@ -4,4 +4,4 @@ Assignment repository for UNT CSCE1015
 jaa0541
 
 ## Favorite Professor
-$(Professor Mohammed Abutayyem)
+Professor Mohammed Abutayyem
