@@ -1,4 +1,4 @@
-# CSCE1015 - HJustin-Micheal Adediran
+# CSCE1015 - Justin-Micheal Adediran
 Assignment repository for UNT CSCE1015
 ## EUID
 jaa0541
